@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="belum_ada_catatan">Belum ada catatan</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="judul_catatan">Judul Catatan</string>
+    <string name="isi_catatan">Isi Catatan</string>
+</resources>
